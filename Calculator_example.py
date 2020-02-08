@@ -1,4 +1,5 @@
 '''
+This is a NEW COMMENT
 Calculator gets two numbers from the user, and then according to user preference adds
 or averages them.
 '''
